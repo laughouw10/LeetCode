@@ -12,4 +12,3 @@ class Solution:
             if out not in ans:
                 ans.append(out)
         return ans
-        
